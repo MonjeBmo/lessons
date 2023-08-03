@@ -1,4 +1,4 @@
-package class1;
+package lesson1;
 
 public class Car {
     // Atributos -> variables de instancia
